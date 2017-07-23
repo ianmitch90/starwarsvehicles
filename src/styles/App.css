@@ -1,0 +1,22 @@
+.App {
+  margin: 10px;
+  color: white;
+}
+
+.card{
+  margin: 2em;
+  width: 50%;
+  text-align: center;
+}
+
+.form{
+  text-align: center;
+}
+
+div {
+    color: white;
+}
+
+div .cardTitle, .cardAttributes {
+  color: black;
+}
